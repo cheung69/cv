@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# YING **YANG**
 
 <!--
 include contact information from the front matter
@@ -32,23 +32,23 @@ Pittsburgh, PA
 - Ph.D. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Sounthern Medical University** `2014.9 - 2018.6`
 
 ```
-New York, NY
+GuangDong, China
 ```
 
 - B.S. in Computer Science, _Magna Cum Laude_
 - Vision, Graphics track
 
-### **Dickinson College** `2013.9 - 2016.5`
+\### **Dickinson College** `2013.9 - 2016.5`
 
 ```
 Carlisle, PA
 ```
 
 - B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- Computer Science Departmental Honors\
 
 ## Publications
 
