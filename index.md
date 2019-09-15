@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: YING YANG
 email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
+    url: 
+    text: ying.yang7@uqconnect.edu.au
 homepage:
   url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  text: 0402583088
 ---
 
 # YING **YANG**
@@ -17,53 +17,31 @@ Supported arguments:
     - homepage: url, text
     - phone
     - email
--->
+<!--
 
 {% include cv-contact.html %}
 
 ## Education
+<!--
+### **Southern Medical University** `2014.9 -2018.6`
 
-### **Carnegie Mellon University** `2018.9 -`
 
-```
 Pittsburgh, PA
-```
-
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- 
+- [name](website address)
+<!--
 
 ### **Sounthern Medical University** `2014.9 - 2018.6`
-
 ```
 GuangDong, China
 ```
+- B.S. in Science, Medical Labotory Technology
+- Gross grade at 82%
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
 
-\### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors\
 
 ## Publications
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
 
 ## Experience
 
