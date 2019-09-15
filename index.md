@@ -5,7 +5,7 @@ email:
     url: 
     text: ying.yang7@uqconnect.edu.au
 homepage:
-  url: http://cs.cmu.edu/~woden
+  url: 
   text: 0402583088
 ---
 
@@ -24,14 +24,10 @@ Supported arguments:
 ## Education
 <!--
 ### **Southern Medical University** `2014.9 -2018.6`
-
-
-Pittsburgh, PA
-- 
 - [name](website address)
 <!--
 
-### **Sounthern Medical University** `2014.9 - 2018.6`
+### **Sounthern Medical University?** `2014.9 - 2018.6`
 ```
 GuangDong, China
 ```
