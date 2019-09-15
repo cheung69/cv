@@ -1,11 +1,11 @@
 ---
 layout: cv
 title: YING YANG
-email: 
-    url: 
+email: ying.yang7@uqconnect.edu.au
+    url: ying.yang7@uqconnect.edu.au
     text: ying.yang7@uqconnect.edu.au
-homepage:
-  url: 
+homepage:0402583088
+  url: 0402583088
   text: 0402583088
 ---
 
@@ -17,7 +17,7 @@ Supported arguments:
     - homepage: url, text
     - phone
     - email
-
+-->
 
 {% include cv-contact.html %}
 
@@ -25,7 +25,7 @@ Supported arguments:
 <!--
 ### **Southern Medical University** `2014.9 -2018.6`
 - [name](website address)
-
+-->
 
 ### **Sounthern Medical University?** `2014.9 - 2018.6`
 ```
