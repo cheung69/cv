@@ -56,11 +56,6 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
-## Advising
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
 ## Teaching
 
