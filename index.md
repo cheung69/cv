@@ -1,10 +1,10 @@
 ---
 layout: cv
 title: YING YANG
-email: ying.yang7@uqconnect.edu.au
-    url: ying.yang7@uqconnect.edu.au
+email: 
+    url: mailto:ying.yang7@uqconnect.edu.au
     text: ying.yang7@uqconnect.edu.au
-homepage: 0402583088
+homepage: 
   url: 0402583088
   text: 0402583088
 ---
