@@ -17,7 +17,7 @@ Supported arguments:
     - homepage: url, text
     - phone
     - email
-<!--
+
 
 {% include cv-contact.html %}
 
@@ -25,7 +25,7 @@ Supported arguments:
 <!--
 ### **Southern Medical University** `2014.9 -2018.6`
 - [name](website address)
-<!--
+
 
 ### **Sounthern Medical University?** `2014.9 - 2018.6`
 ```
@@ -34,14 +34,11 @@ GuangDong, China
 - B.S. in Science, Medical Labotory Technology
 - Gross grade at 82%
 
-
-
 ## Publications
-
 
 ## Experience
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **Carnegie** `2017.5 - 2017.8`
 
 _Research Assistant_<br>
 **Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
