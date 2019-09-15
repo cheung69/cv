@@ -26,8 +26,7 @@ Supported arguments:
 ### **Southern Medical University** `2014.9 -2018.6`
 - [name](website address)
 -->
-
-### **Sounthern Medical University?** `2014.9 - 2018.6`
+### **Sounthern Medical University** `2014.9 - 2018.6`
 ```
 GuangDong, China
 ```
