@@ -44,6 +44,9 @@ GuangDong, China
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2017.5 - 2017.8`
 
 _Research Assistant_<br>
+
+-Immunofluorescence Microscopy
+
 ### **Pathology Lab, Sounthern Medical University** `2017.5 - 2017.8`
 _Research Assistant_<br>
 
