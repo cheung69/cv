@@ -74,12 +74,21 @@ _Research Assistant_<br>
 - Animal anesthesia & Sciatic nerve transverse surgery
 - Collecting and store nerve tissue samples
 - Nerve tissue Fixing & Frozen/Paraffin section
-- Nerve Tissue slice staining
+- Nerve Tissue slice staining and microscope observation
+- Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
+
+## Major courses
+### **Bachelor of Science**
+- 
+
+### **Postgraduate in Master of Biotenchnology**
+- 
 
 ## Hobby
+- Badminton
+- Ukelele
 
 
-### Footer
-Dec 2019
+OCT 2019
 <!-- ### Footer
 Last updated: May 2013 -->
