@@ -49,35 +49,39 @@ _Visitor Intern_<br>
 
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2016.5 - 2017.5`
 _Graduate Research Group Member_<br>
--An Artificial Nerve Tube (PLGA conduit) with sustained release material containing
+-Research Project: An Artificial Nerve Tube (PLGA conduit) with sustained release material containing
 lithiumchloride(LiCl).
+-Sciatic nerve transverse animal model establishment
+-Immunofluorescence staining
 -Immunofluorescence Microscopy
--Animal model establish
 
 ### **Pathology Lab, Sounthern Hosipital** `2017.7 - 2017.10`
 _Assistant Technician_<br>
--Do a placement in hospital (Tissue sections and Immunohistochemistry)
+-Do a placement in hospital(Tissue sections, different types of tissue staining and Immunohistochemistry)
 
 ### **Pathology Lab, Sounthern Medical University** `2017.11 - 2018.6`
 _Intern_<br>
-- Tissue sections（Paraffin section & Frozen section）
+- Cell culture and western-blot
+- Tissue sections(Paraffin section & Frozen section）and HE staining
 - Immunohistochemistry
-- Image analysis with Image J
-- Do a small project (Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and
+- Image analysis with Image J software
+- Do a small project(Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and
 Cervical Squamousepithelial Carcinoma)
 
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2018.8 - 2019.1`
 _Research Assistant_<br>
-- 
+-Research Project: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath
+-Animal anesthesia & Sciatic nerve transverse surgery
+-Collecting and store nerve tissue samples
+-Nerve tissue Fixing & Frozen/Paraffin section
+-Nerve Tissue slice staining
+
+## Hobby
 
 
-## Honors & Awards
 
 
 
-## Service
-
-Research Experiences for Undergraduates in Software Engineering (REUSE) Program Admission Committee `CMU, 2019`
 
 ### Footer
 Dec 2019
