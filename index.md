@@ -61,11 +61,11 @@ _Assistant Technician_<br>
 
 ### **Pathology Lab, Sounthern Medical University** `2017.11 - 2018.6`
 _Intern_<br>
-- Cell culture and western-blot
-- Tissue sections(Paraffin section & Frozen section）and HE staining
-- Immunohistochemistry
-- Image analysis with Image J software
-- Do a small project(Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and
+-Cell culture and western-blot
+-Tissue sections(Paraffin section & Frozen section）and HE staining
+-Immunohistochemistry
+-Image analysis with Image J software
+-Do a small project(Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and
 Cervical Squamousepithelial Carcinoma)
 
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2018.8 - 2019.1`
@@ -77,10 +77,6 @@ _Research Assistant_<br>
 -Nerve Tissue slice staining
 
 ## Hobby
-
-
-
-
 
 
 ### Footer
