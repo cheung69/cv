@@ -7,6 +7,7 @@ email:
 homepage: 
   url: 0402583088
   text: 0402583088
+  
 ---
 
 # YING **YANG**
@@ -102,6 +103,6 @@ _Research Assistant_<br>
 - Ukelele
   
   
-##### <center> OCT 2019 </center>
+###### <center> OCT 2019 </center>
 <!-- ### Footer
 Last updated: May 2013 -->
