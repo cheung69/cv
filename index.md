@@ -101,6 +101,6 @@ _Research Assistant_<br>
 - Badminton
 - Ukelele
 
-###### `OCT 2019`
+<center> ###### `OCT 2019` </center>
 <!-- ### Footer
 Last updated: May 2013 -->
