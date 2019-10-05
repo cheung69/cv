@@ -102,6 +102,6 @@ _Research Assistant_<br>
 - Ukelele
 
 
-OCT 2019
+`OCT 2019`
 <!-- ### Footer
 Last updated: May 2013 -->
