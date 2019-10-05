@@ -79,10 +79,23 @@ _Research Assistant_<br>
 
 ## Major courses
 ### **Bachelor of Science**
-- 
+- Biochemistry
+- Molecular biology
+- Histology and embryology
+- Experiments in molecular biology
+- Experimental zoology
+- Developmental biology
+- Cell culture technique
+- Experimental morphology technology
+- Medical genetics
+- Medical cell biology 
+- Physiology
 
 ### **Postgraduate in Master of Biotenchnology**
-- 
+- Directed Study Molecular Genetic(BIOC6006)
+- Directed Studies in Biomolecular Structure & Function(BIOC6007)
+- Advanced protein technology(BIOC7004)
+- Advanced Molecular Biology Laboratory(BIOC7001)
 
 ## Hobby
 - Badminton
