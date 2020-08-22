@@ -107,9 +107,9 @@ _Research Assistant_<br>
 - DNA Quantification
 - Flow Cytometry & FACS Analysis(Fluorescence-Activated Cell Sorting)
 
-### **Languages**
+<!-- ### **Languages**
 - Mandarin
-- Cantonese
+- Cantonese-->
 
 ## Major courses
 ### **Bachelor of Science**
