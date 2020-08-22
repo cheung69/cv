@@ -93,8 +93,8 @@ _Research Assistant_<br>
     - Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
 
 
-## Acadenmic skills
-### **Technology skills**
+##  Skills
+### **Acadenmic skills**
 - PCR(Polymerase Chain Reaction) & qPCR(quantitative Polymerase Chain Reaction )
 - Agarose gel electrophoresis 
 - Immunocytochemistry and Immunofluorescence
@@ -104,6 +104,10 @@ _Research Assistant_<br>
 - Cell reprogramming induction
 - DNA Quantification
 - Flow Cytometry & FACS Analysis(Fluorescence-Activated Cell Sorting)
+
+### **Languages**
+- Mandarin
+- Cantonese
 
 ## Major courses
 ### **Bachelor of Science**
@@ -125,10 +129,6 @@ _Research Assistant_<br>
 - Advanced protein technology(BIOC7004)
 - Advanced Molecular Biology Laboratory(BIOC7001)
 
-
-### **Languages**
-- Mandarin
-- Cantonese
 
  
 ###### <center> August 2020 </center>
