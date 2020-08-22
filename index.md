@@ -100,13 +100,15 @@ _Research Assistant_<br>
 
 ## Other skills
 ### **Technology skills**
-- PCR (Polymerase Chain Reaction)
+- PCR(Polymerase Chain Reaction) & qPCR(quantitative Polymerase Chain Reaction )
 - Agarose gel electrophoresis 
 - Immunocytochemistry and Immunofluorescence
 - Cell culture (mouse Ebryonic Stem Cells; HEK cells; mouse Ebryonic Fibroblasts; H9 cell line)
 - Basic operation in CUT&Tag(Cleavage Under Targets and Tagmentation)
 - Lentiviral Transduction including lentivirus production, concentration and titration
 - Cell reprogramming induction
+- DNA Quantification
+- Flow Cytometry & FACS Analysis(Fluorescence-Activated Cell Sorting)
 
 ### **Languages**
 - Mandarin
