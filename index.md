@@ -2,8 +2,8 @@
 layout: cv
 title: YING YANG
 email: 
-    url: mailto:ying.yang7@uq.net.au
-    text: ying.yang7@uq.net.au
+  url: mailto:ying.yang7@uq.net.au
+  text: ying.yang7@uq.net.au
 homepage: 
   url: 0402583088
   text: 0402583088
@@ -44,13 +44,13 @@ GuangDong, China
 ### **Developmental Biology Lab, Sounthern Medical University** `2016.7 - 2017.3`
 _Visitor Intern_<br>
 - Visit the Developmental Biology Lab
-- Participate in paper report presentation seminor
+- Participate in routine paper report presentation seminor
 - Theorial learning of plasmid extraction by protocol and artical reading
 
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2016.5 - 2017.5`
 _Graduate Research Group Member_<br>
 - Participated a Neuroscience Research Project: An Artificial Nerve Tube (PLGA conduit) with sustained release material containing lithiumchloride(LiCl). (Explore artificial materials enhancing peripheral nerve repair)
-- 　Technologies involved
+- Experiments Perfomed:
     - Sciatic nerve transverse animal model establishment
     - Immunofluorescence staining
     - Immunofluorescence Microscopy
@@ -62,6 +62,7 @@ _Assistant Technician_<br>
 ### **Pathology Lab, Sounthern Medical University** `2017.11 - 2018.6`
 _Volunteer Intern_<br>
 -Conducted a small project: Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and Cervical Squamousepithelial Carcinoma.
+- Experiments Perfomed:
     - Cell culture and western-blot
     - Tissue sections(Paraffin section & Frozen section）and HE staining
     - Immunohistochemistry of samples from Cervical cancer
@@ -70,6 +71,7 @@ _Volunteer Intern_<br>
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2018.8 - 2019.1`
 _Research Assistant_<br>
 - Participated a Neuroscience Research Project: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath. (Explore Peripheral nerve injuries and regeneration)
+- Experiments Perfomed:
     - Animal anesthesia & Sciatic nerve transverse surgery
     - Collecting and store nerve tissue samples
     - Nerve tissue Fixing & Frozen/Paraffin section
