@@ -33,6 +33,7 @@ Queensland, Australia
 ```
 - M.S. Biotechnology (Research Extensive)
 - Current GPA 6.25
+
 ### **Sounthern Medical University** `2014.9 - 2018.6`
 ```
 GuangDong, China
