@@ -49,21 +49,19 @@ _Visitor Intern_<br>
 
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2016.5 - 2017.5`
 _Graduate Research Group Member_<br>
-- Research Project: An Artificial Nerve Tube (PLGA conduit) with sustained release material containing
-lithiumchloride(LiCl).
-- Sciatic nerve transverse animal model establishment
-- Immunofluorescence staining
-- Immunofluorescence Microscopy
+- Participated a Neuroscience Research Project: An Artificial Nerve Tube (PLGA conduit) with sustained release material containing lithiumchloride(LiCl). (Explore artificial materials enhancing peripheral nerve repair)
+- 　Technologies involved
+    - Sciatic nerve transverse animal model establishment
+    - Immunofluorescence staining
+    - Immunofluorescence Microscopy
 
 ### **Pathology Lab, Sounthern Hosipital** `2017.7 - 2017.10`
 _Assistant Technician_<br>
-- Do a placement in hospital(Tissue sections, different types of tissue staining and Immunohistochemistry)
+- Have done a placement in hospital(Tissue sections, different types of tissue staining and Immunohistochemistry)
 
 ### **Pathology Lab, Sounthern Medical University** `2017.11 - 2018.6`
 _Volunteer Intern_<br>
--  a small project: 
-Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and
-Cervical Squamousepithelial Carcinoma
+-Conducted a small project: Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and Cervical Squamousepithelial Carcinoma.
     - Cell culture and western-blot
     - Tissue sections(Paraffin section & Frozen section）and HE staining
     - Immunohistochemistry of samples from Cervical cancer
@@ -71,8 +69,7 @@ Cervical Squamousepithelial Carcinoma
 
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2018.8 - 2019.1`
 _Research Assistant_<br>
-- Participated a Neuroscience Research Project about Peripheral nerve regeneration: 
-Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath
+- Participated a Neuroscience Research Project: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath. (Explore Peripheral nerve injuries and regeneration)
     - Animal anesthesia & Sciatic nerve transverse surgery
     - Collecting and store nerve tissue samples
     - Nerve tissue Fixing & Frozen/Paraffin section
