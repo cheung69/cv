@@ -114,8 +114,12 @@ _Research Assistant_<br>
 ## Academic referees
 - ???
 
-
- 
+<!-- 
+- Research publications
+Include articles published or accepted for publication. Mark the three most significant publications with an asterisk. Specify the publication details, your contribution as an author to multi-authored publications, plus the standing of the journal or conference.
+Description of most significant publications
+- Include a short description (200 words each maximum) for each of the three asterisked publications. Explain their significance in the field and why they have made an important contribution. All publications should use an official referencing style (such as Chicago, APA or Harvard).
+-->
 ###### <center> August 2020 </center>
 <!-- ### Footer
 Last updated: 22 August 2020 -->
