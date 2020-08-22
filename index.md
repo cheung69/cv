@@ -10,7 +10,7 @@ homepage:
   
 ---
 
-# YING **YANG**
+# YIN **YANG**
 
 <!--
 include contact information from the front matter
@@ -131,6 +131,6 @@ _Research Assistant_<br>
 
 
  
-###### <center> August 2020 </center>
+###### <center> Sep 2020 </center>
 <!-- ### Footer
 Last updated: August 2020 -->
