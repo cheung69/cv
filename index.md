@@ -131,6 +131,6 @@ _Research Assistant_<br>
 
 
  
-###### <center> Sep 2020 </center>
+###### <center> August 2020 </center>
 <!-- ### Footer
 Last updated: August 2020 -->
