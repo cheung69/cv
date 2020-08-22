@@ -61,10 +61,10 @@ _Assistant Technician_<br>
 - Do a placement in hospital(Tissue sections, different types of tissue staining and Immunohistochemistry)
 
 ### **Pathology Lab, Sounthern Medical University** `2017.11 - 2018.6`
-_Intern_<br>
+_Internship_<br>
 - Cell culture and western-blot
 - Tissue sections(Paraffin section & Frozen section）and HE staining
-- Immunohistochemistry
+- Immunohistochemistry of samples from Cervical cancer
 - Image analysis with Image J software
 - Do a small project(Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and
 Cervical Squamousepithelial Carcinoma)
