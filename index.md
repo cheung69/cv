@@ -40,7 +40,6 @@ GuangDong, China
 - B.S. in Medical Laboratory Technology
 - Gross grade at 82%
 
-
 ## Academic Experience
 ### **Developmental Biology Lab, Sounthern Medical University** `2016.7 - 2017.3`
 _Visitor Intern_<br>
@@ -61,22 +60,22 @@ _Assistant Technician_<br>
 - Do a placement in hospital(Tissue sections, different types of tissue staining and Immunohistochemistry)
 
 ### **Pathology Lab, Sounthern Medical University** `2017.11 - 2018.6`
-_Internship_<br>
-- Cell culture and western-blot
-- Tissue sections(Paraffin section & Frozen section）and HE staining
-- Immunohistochemistry of samples from Cervical cancer
-- Image analysis with Image J software
+_Volunteer Intern_<br>
 - Do a small project(Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and
 Cervical Squamousepithelial Carcinoma)
+    - Cell culture and western-blot
+    - Tissue sections(Paraffin section & Frozen section）and HE staining
+    - Immunohistochemistry of samples from Cervical cancer
+    - Image analysis with Image J software
 
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2018.8 - 2019.1`
 _Research Assistant_<br>
-- Research Project: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath
-- Animal anesthesia & Sciatic nerve transverse surgery
-- Collecting and store nerve tissue samples
-- Nerve tissue Fixing & Frozen/Paraffin section
-- Nerve Tissue slice staining and microscope observation
-- Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
+- Participated a Neuroscience Research Project about Peripheral nerve regeneration: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath
+    - Animal anesthesia & Sciatic nerve transverse surgery
+    - Collecting and store nerve tissue samples
+    - Nerve tissue Fixing & Frozen/Paraffin section
+    - Nerve Tissue slice staining and microscope observation
+    - Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
 
 ## Major courses
 ### **Bachelor of Science**
