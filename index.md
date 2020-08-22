@@ -95,8 +95,7 @@ _Research Assistant_<br>
     - Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
 
 
-##  Skills
-### **Acadenmic skills**
+##  Academic Skills
 - PCR(Polymerase Chain Reaction) & qPCR(quantitative Polymerase Chain Reaction )
 - Agarose gel electrophoresis 
 - Immunocytochemistry and Immunofluorescence
