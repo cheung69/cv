@@ -103,8 +103,10 @@ _Research Assistant_<br>
 - PCR (Polymerase Chain Reaction)
 - Agarose gel electrophoresis 
 - Immunocytochemistry and Immunofluorescence
-- Cell culture (mouse Ebryonic Stem Cells; HEK cells; mouse Ebryonic Fibroblasts;)
-
+- Cell culture (mouse Ebryonic Stem Cells; HEK cells; mouse Ebryonic Fibroblasts; H9 cell line)
+- Basic operation in CUT&Tag(Cleavage Under Targets and Tagmentation)
+- Lentiviral Transduction including lentivirus production, concentration and titration
+- Cell reprogramming induction
 
 ### **Languages**
 - Mandarin
