@@ -27,11 +27,11 @@ Supported arguments:
 ### **Southern Medical University** `2014.9 -2018.6`
 - [name](website address)
 -->
-### **University of Queensland** `2019.2 - `
+### **University of Queensland** `2019.2 - 2020.11`
 ```
 Queensland, Australia
 ```
-- M.S. Biotechnology
+- M.S. Biotechnology (Research Extensive)
 - Current GPA 6.25
 ### **Sounthern Medical University** `2014.9 - 2018.6`
 ```
@@ -98,11 +98,19 @@ _Research Assistant_<br>
 - Advanced protein technology(BIOC7004)
 - Advanced Molecular Biology Laboratory(BIOC7001)
 
-## Hobby
-- Badminton
-- Ukelele
-  
-  
-###### <center> OCT 2019 </center>
+## Other skills
+### **Technology skills**
+- PCR (Polymerase Chain Reaction)
+- Agarose gel electrophoresis 
+- Immunocytochemistry and Immunofluorescence
+- Cell culture (mouse Ebryonic Stem Cells; HEK cells; mouse Ebryonic Fibroblasts;)
+
+
+### **Languages**
+- Mandarin
+- Cantonese
+
+ 
+###### <center> August 2020 </center>
 <!-- ### Footer
-Last updated: May 2013 -->
+Last updated: August 2020 -->
