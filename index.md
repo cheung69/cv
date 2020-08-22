@@ -40,6 +40,7 @@ GuangDong, China
 - B.S. in Medical Laboratory Technology
 - Gross grade at 82%
 
+
 ## Research Interests
 ### **Cell Conversion** 
 
@@ -53,7 +54,7 @@ GuangDong, China
 - Converse aged cells back to their young states via modulation of Transcrition Factors Expression. 
 
 
-## Research Experience
+## Research Experiences
 ### **Developmental Biology Lab, Sounthern Medical University** `2016.7 - 2017.3`
 _Visitor Intern_<br>
 - Visit the Developmental Biology Lab
@@ -92,7 +93,7 @@ _Research Assistant_<br>
     - Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
 
 
-## Other skills
+## Acadenmic skills
 ### **Technology skills**
 - PCR(Polymerase Chain Reaction) & qPCR(quantitative Polymerase Chain Reaction )
 - Agarose gel electrophoresis 
