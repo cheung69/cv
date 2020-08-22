@@ -40,7 +40,20 @@ GuangDong, China
 - B.S. in Medical Laboratory Technology
 - Gross grade at 82%
 
-## Academic Experience
+## Research Interests
+### **Cell Conversion** 
+
+- Verify the Transcrition Factors predicted by bioinformatic analysis to have significant potentials to enhance reprogramming
+- Optimise cell reprogramming thourgh combination of known and verified Transcrition Factors.
+
+### **Transcrition Factors Network Characterization** 
+
+- Employing CUT&Tag to characterize Transcrition Factors Network of young and aged cells.
+- Compare the differnece of Transcrition Factors Networkbetween young and aged states.
+- Converse aged cells back to their young states via modulation of Transcrition Factors Expression. 
+
+
+## Research Experience
 ### **Developmental Biology Lab, Sounthern Medical University** `2016.7 - 2017.3`
 _Visitor Intern_<br>
 - Visit the Developmental Biology Lab
