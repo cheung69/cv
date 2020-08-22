@@ -49,7 +49,7 @@ GuangDong, China
 
 ### **Transcrition Factors Network Characterization** 
 
-- Employing CUT&Tag to characterize Transcrition Factors Network of young and aged cells.
+- Employ CUT&Tag to characterize Transcrition Factors Network of young and aged cells.
 - Compare the differnece of Transcrition Factors Networkbetween young and aged states.
 - Converse aged cells back to their young states via modulation of Transcrition Factors Expression. 
 
