@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# Wode **N**
 
 <!--
 include contact information from the front matter
