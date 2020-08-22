@@ -72,7 +72,7 @@ _Graduate Research Group Member_<br>
     - Immunofluorescence staining
     - Immunofluorescence Microscopy
 
-<br><br>
+<br>
 
 ### **Pathology Lab, Sounthern Hosipital** `2017.7 - 2017.10`
 _Assistant Technician_<br>
