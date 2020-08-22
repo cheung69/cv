@@ -10,7 +10,7 @@ homepage:
   
 ---
 
-# YIN **YANG**
+# YING **YANG**
 
 <!--
 include contact information from the front matter
