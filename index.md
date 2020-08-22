@@ -61,8 +61,9 @@ _Assistant Technician_<br>
 
 ### **Pathology Lab, Sounthern Medical University** `2017.11 - 2018.6`
 _Volunteer Intern_<br>
-- Do a small project(Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and
-Cervical Squamousepithelial Carcinoma)
+-  a small project: 
+Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and
+Cervical Squamousepithelial Carcinoma
     - Cell culture and western-blot
     - Tissue sections(Paraffin section & Frozen section）and HE staining
     - Immunohistochemistry of samples from Cervical cancer
@@ -70,12 +71,26 @@ Cervical Squamousepithelial Carcinoma)
 
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2018.8 - 2019.1`
 _Research Assistant_<br>
-- Participated a Neuroscience Research Project about Peripheral nerve regeneration: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath
+- Participated a Neuroscience Research Project about Peripheral nerve regeneration: 
+Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath
     - Animal anesthesia & Sciatic nerve transverse surgery
     - Collecting and store nerve tissue samples
     - Nerve tissue Fixing & Frozen/Paraffin section
     - Nerve Tissue slice staining and microscope observation
     - Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
+
+
+## Other skills
+### **Technology skills**
+- PCR(Polymerase Chain Reaction) & qPCR(quantitative Polymerase Chain Reaction )
+- Agarose gel electrophoresis 
+- Immunocytochemistry and Immunofluorescence
+- Cell culture (mouse Ebryonic Stem Cells; HEK cells; mouse Ebryonic Fibroblasts; H9 cell line)
+- Basic operation in CUT&Tag(Cleavage Under Targets and Tagmentation)
+- Lentiviral Transduction including lentivirus production, concentration and titration
+- Cell reprogramming induction
+- DNA Quantification
+- Flow Cytometry & FACS Analysis(Fluorescence-Activated Cell Sorting)
 
 ## Major courses
 ### **Bachelor of Science**
@@ -97,17 +112,6 @@ _Research Assistant_<br>
 - Advanced protein technology(BIOC7004)
 - Advanced Molecular Biology Laboratory(BIOC7001)
 
-## Other skills
-### **Technology skills**
-- PCR(Polymerase Chain Reaction) & qPCR(quantitative Polymerase Chain Reaction )
-- Agarose gel electrophoresis 
-- Immunocytochemistry and Immunofluorescence
-- Cell culture (mouse Ebryonic Stem Cells; HEK cells; mouse Ebryonic Fibroblasts; H9 cell line)
-- Basic operation in CUT&Tag(Cleavage Under Targets and Tagmentation)
-- Lentiviral Transduction including lentivirus production, concentration and titration
-- Cell reprogramming induction
-- DNA Quantification
-- Flow Cytometry & FACS Analysis(Fluorescence-Activated Cell Sorting)
 
 ### **Languages**
 - Mandarin
