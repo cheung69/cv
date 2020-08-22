@@ -2,8 +2,8 @@
 layout: cv
 title: YING YANG
 email: 
-    url: mailto:ying.yang7@uqconnect.edu.au
-    text: ying.yang7@uqconnect.edu.au
+    url: mailto:ying.yang7@uq.net.au
+    text: ying.yang7@uq.net.au
 homepage: 
   url: 0402583088
   text: 0402583088
@@ -32,7 +32,7 @@ Supported arguments:
 Queensland, Australia
 ```
 - M.S. Biotechnology
-- Current GPA 6.0
+- Current GPA 6.25
 ### **Sounthern Medical University** `2014.9 - 2018.6`
 ```
 GuangDong, China
