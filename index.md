@@ -94,6 +94,16 @@ _Research Assistant_<br>
     - Nerve tissue Fixing & Frozen/Paraffin section
     - Nerve Tissue slice staining and microscope observation
     - Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
+    
+### **Histology	and	Embryology Lab, University of Queensland** `2020.3 - 2020.11`
+_Research Master Student_<br>
+- Conducted a Research Project: Modulating iPS cell generation with key transcription factors that underpin cell identity.
+- Experiments Perfomed:
+  - FACS Data analysis of young and aged cells
+  - Lentiviral Transduction to regulate the expression level of TFs that are predicted to enchance reprogramming OR to unpin the identity of fibroblasts
+  - Embryonic stem cells culture and fibroblasts fibroblasts
+  - Flow Cytometry Analysis of reprogramming intermedias and iPSC Colonies Counting
+  - CUT&Tag to characterise TF network
 
 
 ##  Academic Skills
@@ -112,7 +122,11 @@ _Research Assistant_<br>
 - Cantonese-->
 
 ## Academic referees
-- ???
+- Christian Nefzger
+  - Senior Research Fellow, Institute for Molecular Bioscience
+  - Group Leader of 'Cellular reprogramming and ageing', Institute for Molecular Bioscience
+- Hamed Yari
+  - Postdoctoral Research Fellow, Institute for Molecular Bioscience
 
 <!-- 
 - Research publications
