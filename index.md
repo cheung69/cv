@@ -121,12 +121,13 @@ _Research Master Student_<br>
 - Mandarin
 - Cantonese-->
 
-## Academic referees
+<!-- ## Academic referees
 - Christian Nefzger
   - Senior Research Fellow, Institute for Molecular Bioscience
   - Group Leader of 'Cellular reprogramming and ageing', Institute for Molecular Bioscience
 - Hamed Yari
   - Postdoctoral Research Fellow, Institute for Molecular Bioscience
+-->
 
 <!-- 
 - Research publications
