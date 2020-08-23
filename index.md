@@ -134,6 +134,7 @@ Include articles published or accepted for publication. Mark the three most sign
 Description of most significant publications
 - Include a short description (200 words each maximum) for each of the three asterisked publications. Explain their significance in the field and why they have made an important contribution. All publications should use an official referencing style (such as Chicago, APA or Harvard).
 -->
+<br><br><br>
 ###### <center> August 2020 </center>
 <!-- ### Footer
 Last updated: 22 August 2020 -->
