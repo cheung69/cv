@@ -47,7 +47,7 @@ GuangDong, China
 ## Research Interests
 ### **Cell Conversion** 
 
-- Verify the Transcrition Factors predicted by bioinformatic analysis to have significant potentials to enhance reprogramming
+- Verify the Transcrition Factors predicted by bioinformatic analysis to have significant potentials to enhance reprogramming.
 - Optimise cell reprogramming thourgh combination of known and verified Transcrition Factors.
 
 ### **Transcrition Factors Network Characterization** 
@@ -66,7 +66,7 @@ _Visitor Intern_<br>
 
 ### **Histology	and	Embryology Lab, Sounthern Medical University** `2016.5 - 2017.5`
 _Graduate Research Group Member_<br>
-- Participated a Neuroscience Research Project: An Artificial Nerve Tube (PLGA conduit) with sustained release material containing lithiumchloride(LiCl). (Explore artificial materials enhancing peripheral nerve repair)
+- Participated a Neuroscience Research Project: An Artificial Nerve Tube (PLGA conduit) with sustained release material containing lithiumchloride(LiCl).(Explore artificial materials enhancing peripheral nerve repair)
 - Experiments Perfomed:
     - Sciatic nerve transverse animal model establishment
     - Immunofluorescence staining
@@ -78,7 +78,7 @@ _Assistant Technician_<br>
 
 ### **Pathology Lab, Sounthern Medical University** `2017.11 - 2018.6`
 _Volunteer Intern_<br>
--Conducted a small project: Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and Cervical Squamousepithelial Carcinoma.
+- Conducted a small project: Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and Cervical Squamousepithelial Carcinoma.
 - Experiments Perfomed:
     - Cell culture and western-blot
     - Tissue sections(Paraffin section & Frozen section）and HE staining
@@ -107,7 +107,7 @@ _Research Master Student_<br>
 
 
 ##  Academic Skills
-- PCR(Polymerase Chain Reaction) & qPCR(quantitative Polymerase Chain Reaction )
+- PCR(Polymerase Chain Reaction) & qPCR(quantitative Polymerase Chain Reaction)
 - Agarose gel electrophoresis 
 - Immunocytochemistry and Immunofluorescence
 - Cell culture (mouse Ebryonic Stem Cells; HEK cells; mouse Ebryonic Fibroblasts; H9 cell line)
