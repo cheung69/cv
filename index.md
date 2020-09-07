@@ -47,63 +47,63 @@ GuangDong, China
 ## Research Interests
 ### **Cell Conversion** 
 
-- Verify the Transcrition Factors predicted by bioinformatic analysis to have significant potentials to enhance reprogramming.
-- Optimise cell reprogramming thourgh combination of known and verified Transcrition Factors.
+- Verify the Transcription Factors predicted by bioinformatic analysis to have significant potentials to enhance reprogramming.
+- Optimize cell reprogramming through combination of known and verified Transcription Factors.
 
-### **Transcrition Factors Network Characterization** 
+### **Transcription Factors Network Characterization** 
 
-- Employ CUT&Tag to characterize Transcrition Factors Network of young and aged cells.
-- Compare the differnece of Transcrition Factors Networkbetween young and aged states.
-- Converse aged cells back to their young states via modulation of Transcrition Factors Expression. 
+- Employ CUT&Tag to characterize Transcription Factors Network of young and aged cells.
+- Compare the differnece of Transcription Factors Networkbetween young and aged states.
+- Converse aged cells back to their young states via modulation of Transcription Factors Expression. 
 
 
 ## Research Experiences
-### **Developmental Biology Lab, Sounthern Medical University** `2016.7 - 2017.3`
+### **Developmental Biology Lab, Southern Medical University** `2016.7 - 2017.3`
 _Visitor Intern_<br>
 - Visit the Developmental Biology Lab
-- Participate in routine paper report presentation seminor
-- Theorial learning of plasmid extraction by protocol and artical reading
+- Participate in routine paper report presentation seminar
+- Theoretical learning of plasmid extraction by protocol and artical reading
 
-### **Histology	and	Embryology Lab, Sounthern Medical University** `2016.5 - 2017.5`
+### **Histology	and	Embryology Lab, Southern Medical University** `2016.5 - 2017.5`
 _Graduate Research Group Member_<br>
 - Participated a Neuroscience Research Project: An Artificial Nerve Tube (PLGA conduit) with sustained release material containing lithiumchloride(LiCl).(Explore artificial materials enhancing peripheral nerve repair)
-- Experiments Perfomed:
+- Experiments Performed:
     - Sciatic nerve transverse animal model establishment
     - Immunofluorescence staining
     - Immunofluorescence Microscopy
 
-### **Pathology Lab, Sounthern Hosipital** `2017.7 - 2017.10`
+### **Pathology Lab, Southern Hosipital** `2017.7 - 2017.10`
 _Assistant Technician_<br>
 - Have done a placement in hospital(Tissue sections, different types of tissue staining and Immunohistochemistry)
 
-### **Pathology Lab, Sounthern Medical University** `2017.11 - 2018.6`
+### **Pathology Lab, Southern Medical University** `2017.11 - 2018.6`
 _Volunteer Intern_<br>
 - Conducted a small project: Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and Cervical Squamousepithelial Carcinoma.
-- Experiments Perfomed:
+- Experiments Performed:
     - Cell culture and western-blot
     - Tissue sections(Paraffin section & Frozen section）and HE staining
     - Immunohistochemistry of samples from Cervical cancer
     - Image analysis with Image J software
 
-### **Histology	and	Embryology Lab, Sounthern Medical University** `2018.8 - 2019.1`
+### **Histology	and	Embryology Lab, Southern Medical University** `2018.8 - 2019.1`
 _Research Assistant_<br>
 - Participated a Neuroscience Research Project: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath. (Explore Peripheral nerve injuries and regeneration)
-- Experiments Perfomed:
+- Experiments Performed:
     - Animal anesthesia & Sciatic nerve transverse surgery
     - Collecting and store nerve tissue samples
     - Nerve tissue Fixing & Frozen/Paraffin section
     - Nerve Tissue slice staining and microscope observation
     - Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
     
-### **Histology	and	Embryology Lab, University of Queensland** `2020.3 - 2020.11`
+### **Cellular reprogramming and ageing Group, Institute for Molecular Bioscience, University of Queensland** `2020.3 - 2020.11`
 _Research Master Student_<br>
-- Conducted a Research Project: Modulating iPS cell generation with key transcription factors that underpin cell identity.
-- Experiments Perfomed:
+- Conducted a Research Project: Modulating iPSC(induced Pluripotent Stem Cell) generation with key transcription factors that underpin cell identity.
+- Experiments Performed:
   - FACS Data analysis of young and aged cells
   - Lentiviral Transduction to regulate the expression level of TFs that are predicted to enchance reprogramming OR to unpin the identity of fibroblasts
   - Embryonic stem cells culture and fibroblasts fibroblasts
   - Flow Cytometry Analysis of reprogramming intermedias and iPSC Colonies Counting
-  - CUT&Tag to characterise TF network
+  - CUT&Tag to characterize TF network
 
 
 ##  Academic Skills
@@ -114,7 +114,8 @@ _Research Master Student_<br>
 - Basic operation in CUT&Tag(Cleavage Under Targets and Tagmentation)
 - Lentiviral Transduction including lentivirus production, concentration and titration
 - Cell reprogramming induction
-- DNA Quantification
+- DNA Extraction and Quantification
+- Plasmid Purification
 - Flow Cytometry & FACS Analysis(Fluorescence-Activated Cell Sorting)
 
 <!-- ### **Languages**
