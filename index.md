@@ -78,7 +78,7 @@ _Assistant Technician_<br>
 
 ### **Pathology Lab, Southern Medical University** `2017.11 - 2018.6`
 _Volunteer Intern_<br>
-- Conducted a small project: Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and Cervical Squamousepithelial Carcinoma.
+- Conducted a small project: Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and Cervical Squamous Epithelial Carcinoma.
 - Experiments Performed:
     - Cell culture and western-blot
     - Tissue sections(Paraffin section & Frozen section）and HE staining
@@ -87,7 +87,7 @@ _Volunteer Intern_<br>
 
 ### **Histology	and	Embryology Lab, Southern Medical University** `2018.8 - 2019.1`
 _Research Assistant_<br>
-- Participated a Neuroscience Research Project: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential machanism beneath. (Explore Peripheral nerve injuries and regeneration)
+- Participated a Neuroscience Research Project: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential mechanism beneath. (Explore Peripheral nerve injuries and regeneration)
 - Experiments Performed:
     - Animal anesthesia & Sciatic nerve transverse surgery
     - Collecting and store nerve tissue samples
@@ -114,7 +114,7 @@ _Research Master Student_<br>
 - Basic operation in CUT&Tag(Cleavage Under Targets and Tagmentation)
 - Lentiviral Transduction including lentivirus production, concentration and titration
 - Cell reprogramming induction
-- DNA Extraction and Quantification
+- DNA Extraction & Quantification
 - Plasmid Purification
 - Flow Cytometry & FACS Analysis(Fluorescence-Activated Cell Sorting)
 
