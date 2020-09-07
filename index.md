@@ -100,7 +100,7 @@ _Research Master Student_<br>
 - Conducted a Research Project: Modulating iPSC(induced Pluripotent Stem Cell) generation with key transcription factors that underpin cell identity.
 - Experiments Performed:
   - FACS Data analysis of young and aged cells
-  - Lentiviral Transduction to regulate the expression level of TFs that are predicted to enchance reprogramming OR to unpin the identity of fibroblasts
+  - Lentiviral Transduction to regulate the expression level of TFs that are predicted to enhance reprogramming OR to unpin the identity of fibroblasts
   - Embryonic stem cells culture and fibroblasts fibroblasts
   - Flow Cytometry Analysis of reprogramming intermedias and iPSC Colonies Counting
   - CUT&Tag to characterize TF network
