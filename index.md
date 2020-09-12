@@ -1,15 +1,17 @@
 ---
 layout: cv
+
 title: YING YANG
+
 email: 
   url: mailto:ying.yang7@uq.net.au
   text: ying.yang7@uq.net.au
+  
 homepage: 
   url: 0402583088
   text: 0402583088
   
 ---
-
 # YING **YANG**
 
 <!--
@@ -51,7 +53,7 @@ GuangDong, China
 ### **Transcription Factors Network Characterization** 
 - Use of cutting-edge techniques like CUT&Tag to characterize the distribution of transcription factors in different cell states (e.g. young vs aged cells). 
 
-
+<br><br>
 ## Research Experiences
 ### **Cellular reprogramming and ageing Group, Institute for Molecular Bioscience, University of Queensland** `2020.3 - 2020.11`
 _Research Master Student_<br>
