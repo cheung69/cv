@@ -4,12 +4,17 @@ title: YING YANG
 email: 
   url: mailto:ying.yang7@uq.net.au
   text: ying.yang7@uq.net.au
-homepage: 
+phone: 
   url: 0402583088
   text: 0402583088
-nationality: 
+homepage: 
   url: China
   text: China
+  
+<!-- nationality: 
+  url: China
+  text: China
+-->
   
 ---
 
@@ -66,7 +71,7 @@ Experimental procedures performed:
   -	Supported establishment of the CUT&Tag technique in the lab determine genome wide binding sites of the transcription factor of interest.
   -	CUT&Tag to characterize transcription factor network
 
-### **Histology	and	Embryology Lab, Southern Medical University** `2018.8 - 2019.1`
+### **Histology	and	Embryology Lab, Southern Medical University, China** `2018.8 - 2019.1`
 _Research Assistant_<br>
 - Conducted neuroscience research project investigating consequences of microRNA 301a knock-out on peripheral nerve injuries and regeneration.
 Experimental procedures performed:
@@ -77,7 +82,7 @@ Experimental procedures performed:
   -	Animal behaviour experiments including rotarod performance test, walking test and subsequent analysis with Image Pro Plus software
 
 
-### **Pathology Lab, Southern Medical University** `2017.11 - 2018.6`
+### **Pathology Lab, Southern Medical University, China** `2017.11 - 2018.6`
 _Internship_<br>
 - Small self-contained research project: Quantitative analysis of PCNA protein in cervical precancerous lesion and cervical squamous epithelial carcinoma.
 Techniques performed:
@@ -87,11 +92,11 @@ Techniques performed:
   -	Image analysis with Image J software
 
     
-### **Pathology Lab, Southern Hosipital** `2017.7 - 2017.10`
+### **Pathology Lab, Southern Hosipital, China** `2017.7 - 2017.10`
 _Technical Assistant_<br>
 - Hospital placement involving tissue section preparation, different types of tissue staining and immunohistochemistry.
 
-### **Histology	and	Embryology Lab, Southern Medical University** `2016.5 - 2017.5`
+### **Histology	and	Embryology Lab, Southern Medical University, China** `2016.5 - 2017.5`
 _Graduate Research Group Member_<br>
 - Neuroscience research project conducted: A sustained release material containing lithium chloride (LiCl) was investigated for its ability to enhance peripheral nerve repair.
 - Training in molecular biology techniques and animal work
@@ -99,7 +104,7 @@ _Graduate Research Group Member_<br>
 - Immunofluorescence staining
 - Immunofluorescence microscopy
     
-### **Developmental Biology Lab, Southern Medical University** `2016.7 - 2017.3`
+### **Developmental Biology Lab, Southern Medical University, China** `2016.7 - 2017.3`
 _Internship_<br>
 - Training in basic biology techniques like plasmid purification
 - Journal club participation
@@ -132,19 +137,19 @@ Target Journal: Stem Cell Reports (Impact factor: 5.5)
 ## Academic referees
 
 - Dr Christian Nefzger (Masters project supervisor)
-Group Leader (Cellular reprogramming and ageing laboratory)
-Institute for Molecular Bioscience,
-Level 4, Building 80, 306 Carmody Rd, 
-St Lucia, Queensland 4072
-c.nefzger@imb.uq.edu.au
-P: +61 7 334 62053
+  <br>Group Leader (Cellular reprogramming and ageing laboratory)
+  <br>Institute for Molecular Bioscience,
+  <br>Level 4, Building 80, 306 Carmody Rd, 
+  <br>St Lucia, Queensland 4072
+  <br>c.nefzger@imb.uq.edu.au
+  <br>P: +61 7 334 62053
  
 - Dr Marina Naval Sanchez (Masters project co-supervisor)
-Postdoctoral Research Fellow 
-Institute for Molecular Bioscience,
-Level 4, Building 80, 306 Carmody Rd, 
-St Lucia, Queensland 4072
-m.navalsanchez@imb.uq.edu.au
+  <br>Postdoctoral Research Fellow 
+  <br>Institute for Molecular Bioscience,
+  <br>Level 4, Building 80, 306 Carmody Rd, 
+  <br>St Lucia, Queensland 4072
+  <br>m.navalsanchez@imb.uq.edu.au
 
 <!-- 
 - Research publications
