@@ -7,6 +7,9 @@ email:
 homepage: 
   url: 0402583088
   text: 0402583088
+nationality: 
+  url: China
+  text: China
   
 ---
 
@@ -32,7 +35,7 @@ Supported arguments:
 Queensland, Australia
 ```
 - M.S. Biotechnology (Research Extensive)
-- Current GPA 6.25
+- Current GPA 6.25/7
 
 <br>
 
@@ -43,92 +46,105 @@ GuangDong, China
 - B.S. in Medical Laboratory Technology
 - Gross grade at 82%
 
-
+<br><br>
 ## Research Interests
 ### **Cell Conversion** 
-
-- Verify the Transcription Factors predicted by bioinformatic analysis to have significant potentials to enhance reprogramming.
-- Optimize cell reprogramming through combination of known and verified Transcription Factors.
+- Establishing new kinds of cell conversions or optimization of transdifferentiation workflows using transcription factor candidates identified via state-of-the-art computational analyses.
 
 ### **Transcription Factors Network Characterization** 
-
-- Employ CUT&Tag to characterize Transcription Factors Network of young and aged cells.
-- Compare the differnece of Transcription Factors Networkbetween young and aged states.
-- Converse aged cells back to their young states via modulation of Transcription Factors Expression. 
+- Use of cutting-edge techniques like CUT&Tag to characterize the distribution of transcription factors in different cell states (e.g. young vs aged cells). 
 
 
 ## Research Experiences
-### **Developmental Biology Lab, Southern Medical University** `2016.7 - 2017.3`
-_Visitor Intern_<br>
-- Visit the Developmental Biology Lab
-- Participate in routine paper report presentation seminar
-- Theoretical learning of plasmid extraction by protocol and artical reading
-
-### **Histology	and	Embryology Lab, Southern Medical University** `2016.5 - 2017.5`
-_Graduate Research Group Member_<br>
-- Participated a Neuroscience Research Project: An Artificial Nerve Tube (PLGA conduit) with sustained release material containing lithiumchloride(LiCl).(Explore artificial materials enhancing peripheral nerve repair)
-- Experiments Performed:
-    - Sciatic nerve transverse animal model establishment
-    - Immunofluorescence staining
-    - Immunofluorescence Microscopy
-
-### **Pathology Lab, Southern Hosipital** `2017.7 - 2017.10`
-_Assistant Technician_<br>
-- Have done a placement in hospital(Tissue sections, different types of tissue staining and Immunohistochemistry)
-
-### **Pathology Lab, Southern Medical University** `2017.11 - 2018.6`
-_Volunteer Intern_<br>
-- Conducted a small project: Quantitative Pathological Analysis of PCNA in Cervical Precancerous Lesion and Cervical Squamous Epithelial Carcinoma.
-- Experiments Performed:
-    - Cell culture and western-blot
-    - Tissue sections(Paraffin section & Frozen section）and HE staining
-    - Immunohistochemistry of samples from Cervical cancer
-    - Image analysis with Image J software
+### **Cellular reprogramming and ageing Group, Institute for Molecular Bioscience, University of Queensland** `2020.3 - 2020.11`
+_Research Master Student_<br>
+- Research project involving modulating of induced pluripotent stem cell generation with key transcription factors that underpin cell identity.
+Experimental procedures performed:
+  -	Flowcytometry and FACS data analysis 
+  -	Lentiviral transduction to overexpress/knockdown genes of interest
+  -	Culture of pluripotent stem cells and fibroblasts
+  -	Supported establishment of the CUT&Tag technique in the lab determine genome wide binding sites of the transcription factor of interest.
+  -	CUT&Tag to characterize transcription factor network
 
 ### **Histology	and	Embryology Lab, Southern Medical University** `2018.8 - 2019.1`
 _Research Assistant_<br>
-- Participated a Neuroscience Research Project: Gene microRNA 301a knock-out influence on Peripheral nerve impairment and potential mechanism beneath. (Explore Peripheral nerve injuries and regeneration)
-- Experiments Performed:
-    - Animal anesthesia & Sciatic nerve transverse surgery
-    - Collecting and store nerve tissue samples
-    - Nerve tissue Fixing & Frozen/Paraffin section
-    - Nerve Tissue slice staining and microscope observation
-    - Conduct animal behavioural experiments including Rotarod performance test & Walking test and result analysis with Image Pro Plus software
+- Conducted neuroscience research project investigating consequences of microRNA 301a knock-out on peripheral nerve injuries and regeneration.
+Experimental procedures performed:
+  -	Animal anaesthesia & sciatic nerve transverse surgery
+  -	Collecting and store nerve tissue samples
+  -	Nerve tissue fixing & frozen/paraffin sectioning
+  -	Nerve tissue staining and microscopy
+  -	Animal behaviour experiments including rotarod performance test, walking test and subsequent analysis with Image Pro Plus software
+
+
+### **Pathology Lab, Southern Medical University** `2017.11 - 2018.6`
+_Internship_<br>
+- Small self-contained research project: Quantitative analysis of PCNA protein in cervical precancerous lesion and cervical squamous epithelial carcinoma.
+Techniques performed:
+  -	Cell culture and western-blotting
+  -	Tissue sectioning (paraffin & frozen sections) and HE staining
+  -	Immunohistochemistry 
+  -	Image analysis with Image J software
+
     
-### **Cellular reprogramming and ageing Group, Institute for Molecular Bioscience, University of Queensland** `2020.3 - 2020.11`
-_Research Master Student_<br>
-- Conducted a Research Project: Modulating iPSC(induced Pluripotent Stem Cell) generation with key transcription factors that underpin cell identity.
-- Experiments Performed:
-  - FACS Data analysis of young and aged cells
-  - Lentiviral Transduction to regulate the expression level of TFs that are predicted to enhance reprogramming OR to unpin the identity of fibroblasts
-  - Embryonic stem cells culture and fibroblasts fibroblasts
-  - Flow Cytometry Analysis of reprogramming intermedias and iPSC Colonies Counting
-  - CUT&Tag to characterize TF network
+### **Pathology Lab, Southern Hosipital** `2017.7 - 2017.10`
+_Technical Assistant_<br>
+- Hospital placement involving tissue section preparation, different types of tissue staining and immunohistochemistry.
+
+### **Histology	and	Embryology Lab, Southern Medical University** `2016.5 - 2017.5`
+_Graduate Research Group Member_<br>
+- Neuroscience research project conducted: A sustained release material containing lithium chloride (LiCl) was investigated for its ability to enhance peripheral nerve repair.
+- Training in molecular biology techniques and animal work
+- Sciatic nerve transverse animal model establishment
+- Immunofluorescence staining
+- Immunofluorescence microscopy
+    
+### **Developmental Biology Lab, Southern Medical University** `2016.7 - 2017.3`
+_Internship_<br>
+- Training in basic biology techniques like plasmid purification
+- Journal club participation
 
 
-##  Academic Skills
-- PCR(Polymerase Chain Reaction) & qPCR(quantitative Polymerase Chain Reaction)
-- Agarose gel electrophoresis 
+<br><br>
+##  Laboraory Skills
+- PCR (Polymerase Chain Reaction) & qPCR (quantitative Polymerase Chain Reaction)
+- Agarose gel electrophoresis
 - Immunocytochemistry and Immunofluorescence
-- Cell culture (mouse Ebryonic Stem Cells; HEK cells; mouse Ebryonic Fibroblasts; H9 cell line)
-- Basic operation in CUT&Tag(Cleavage Under Targets and Tagmentation)
-- Lentiviral Transduction including lentivirus production, concentration and titration
-- Cell reprogramming induction
-- DNA Extraction & Quantification
-- Plasmid Purification
-- Flow Cytometry & FACS Analysis(Fluorescence-Activated Cell Sorting)
+- Cell culture (mouse embryonic stem cells; HEK cells; mouse embryonic fibroblasts; H9 cell line)
+- CUT&Tag assay (Cleavage Under Targets and Tagmentation)
+- Lentiviral particle production and concentration
+- Lentiviral transduction of various mammalian cell types
+- Plasmid transfection into mammalian cell lines
+- DNA purification/extraction & quantification
+- Flow cytometry and the associated software analysis
 
 <!-- ### **Languages**
 - Mandarin
 - Cantonese-->
+<br><br>
+##  Manuscript in Preparation (PRODUCT OF MASTERS PROJECT)
 
+Ying Yang*, Marina Naval-Sanchez*, Qiujie Zhu*, Nikita Despande, Minh Tran, Quan Nguyen, Christian Nefzger. Multiomic quantification of transcription factor activity changes reveals new ways to enhance pluripotency induction. 
+Target Journal: Stem Cell Reports (Impact factor: 5.5)
+* = equal contribution
+
+<br><br>
 ## Academic referees
-- Christian Nefzger
-  - Senior Research Fellow, Institute for Molecular Bioscience
-  - Group Leader of 'Cellular reprogramming and ageing', Institute for Molecular Bioscience
-- Marina Naval Sanchez
-  - Postdoctoral Research Fellow, Institute for Molecular Bioscience
 
+- Dr Christian Nefzger (Masters project supervisor)
+Group Leader (Cellular reprogramming and ageing laboratory)
+Institute for Molecular Bioscience,
+Level 4, Building 80, 306 Carmody Rd, 
+St Lucia, Queensland 4072
+c.nefzger@imb.uq.edu.au
+P: +61 7 334 62053
+ 
+- Dr Marina Naval Sanchez (Masters project co-supervisor)
+Postdoctoral Research Fellow 
+Institute for Molecular Bioscience,
+Level 4, Building 80, 306 Carmody Rd, 
+St Lucia, Queensland 4072
+m.navalsanchez@imb.uq.edu.au
 
 <!-- 
 - Research publications
