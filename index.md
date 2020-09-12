@@ -131,7 +131,7 @@ Target Journal: Stem Cell Reports (Impact factor: 5.5)
 
 ## Academic referees
 
-- Dr Christian Nefzger (Masters project supervisor)
+* Dr Christian Nefzger (Masters project supervisor)
   <br>Group Leader (Cellular reprogramming and ageing laboratory)
   <br>Institute for Molecular Bioscience,
   <br>Level 4, Building 80, 306 Carmody Rd, 
@@ -139,7 +139,7 @@ Target Journal: Stem Cell Reports (Impact factor: 5.5)
   <br>c.nefzger@imb.uq.edu.au
   <br>P: +61 7 334 62053
  
-- Dr Marina Naval Sanchez (Masters project co-supervisor)
+* Dr Marina Naval Sanchez (Masters project co-supervisor)
   <br>Postdoctoral Research Fellow 
   <br>Institute for Molecular Bioscience,
   <br>Level 4, Building 80, 306 Carmody Rd, 
