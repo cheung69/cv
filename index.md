@@ -121,7 +121,7 @@ _Internship_<br>
 - Mandarin
 - Cantonese-->
 <br><br>
-##  Manuscript in Preparation (PRODUCT OF MASTERS PROJECT)
+##  Manuscript in Preparation(Product of Masters Project)
 
 Ying Yang*, Marina Naval-Sanchez*, Qiujie Zhu*, Nikita Despande, Minh Tran, Quan Nguyen, Christian Nefzger. Multiomic quantification of transcription factor activity changes reveals new ways to enhance pluripotency induction. 
 Target Journal: Stem Cell Reports (Impact factor: 5.5)
